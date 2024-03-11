@@ -31,6 +31,6 @@ Among the models examined, the decision tree emerges as the top performer, achie
 
 These findings underscore the potential of machine learning techniques, particularly decision trees, in enabling predictive maintenance strategies, contingent upon the availability of relevant and high-quality input data.
 
-[Click here](https://github.com/yuzom/ml_classifiers_comparison/blob/main/ml_classifiers_comparison.ipynb) to see the code in action.
+[Click here](https://github.com/yuzom/predictive_maintenance/blob/main/predictive_maintenance.ipynb) to see the code in action.
 
 **(C) 2024 Yuzo Makitani** This repository is released under the [GNU GPLv3.0 or later](https://www.gnu.org/licenses/).
